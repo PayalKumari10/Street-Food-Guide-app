@@ -1,0 +1,7 @@
+{
+  "name": "India Street Food Guide",
+  "version": "1.0.0",
+  "description": "Discover authentic street food from across India based on your mood and location",
+  "main": "index.html",
+  "type": "web-application"
+}
