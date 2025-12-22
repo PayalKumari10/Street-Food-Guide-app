@@ -32,6 +32,7 @@ Mumbai, Delhi, Kolkata, Bangalore, Hyderabad, Chennai, Pune, Ahmedabad, Jaipur, 
 ## Food Categories
 
 Each recommendation includes:
+
 - **Food Name** - The authentic dish name
 - **Location** - Specific area and city
 - **Reason** - Why it's special and worth trying
@@ -60,6 +61,7 @@ Simply open `index.html` in your browser. No build process or server required!
 ## Dataset
 
 The local dataset includes authentic street foods with:
+
 - Food names and descriptions
 - Specific locations (area + city)
 - Tags for mood/preference matching (spicy, sweet, tangy, comfort, etc.)
@@ -67,4 +69,4 @@ The local dataset includes authentic street foods with:
 
 ---
 
-**Made with ❤️ for street food lovers across India**
+**Made with ❤️ for street food lovers across India By Payal Kumari**
