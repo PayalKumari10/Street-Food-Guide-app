@@ -138,7 +138,6 @@ const streetFoodData = [
     tags: ["tangy", "spicy", "refreshing"],
     reason: "Bangalore's take on the beloved crispy water-filled snack",
   },
-  // Bangalore – Sweets
   {
     name: "Mysore Pak",
     city: "Bangalore",
